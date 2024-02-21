@@ -26,7 +26,7 @@ This Todo application is a basic implementation using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can find a live demo of the application [here](https://todo-app-javascript-vite.netlify.app/) (replace with your live demo link if available).
+You can find a live demo of the application [here](https://todo-app-javascript-vite.netlify.app/).
 
 ## Installation
 
